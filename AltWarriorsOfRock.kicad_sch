@@ -4063,7 +4063,7 @@
 	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 219.71 151.13 0)
+		(at 219.71 148.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4073,7 +4073,7 @@
 		)
 		(uuid "8ec7fe22-b732-4b35-9d08-b6dc4da6524c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 230.799 151.13 0)
+			(at 230.799 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4151,7 +4151,7 @@
 	)
 	(global_label "UART_TX"
 		(shape input)
-		(at 219.71 148.59 0)
+		(at 219.71 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4161,7 +4161,7 @@
 		)
 		(uuid "a6c6903c-30c7-4fe5-a5f1-b17de8709014")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 230.4966 148.59 0)
+			(at 230.4966 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6051,8 +6051,8 @@
 		)
 	)
 	(sheet
-		(at 17.78 113.03)
-		(size 152.4 77.47)
+		(at 16.51 184.15)
+		(size 34.29 7.62)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -6067,7 +6067,7 @@
 		)
 		(uuid "6e6e59bb-a0aa-487a-b8b3-5530ba753194")
 		(property "Sheetname" "Power & Reset"
-			(at 17.78 112.3184 0)
+			(at 16.51 183.4384 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6076,7 +6076,7 @@
 			)
 		)
 		(property "Sheetfile" "PowerAndReset.kicad_sch"
-			(at 17.78 191.0846 0)
+			(at 16.51 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
